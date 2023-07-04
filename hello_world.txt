@@ -1,2 +1,3 @@
 My name is William 
-Nice to meet you
+This is my first file to save on Github. 
+I'm taking my first steps in learning how to code
